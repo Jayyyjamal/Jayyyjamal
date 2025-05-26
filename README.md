@@ -7,9 +7,10 @@ I’m an entry-level cybersecurity analyst with a strong focus on SOC operations
 
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+As a Mechanical Engineering graduate with strong analytical skills, I’ve transitioned into cybersecurity through hands-on labs, internships, and self-paced learning. I’m building expertise in SOC operations, threat detection, and log analysis using tools like Splunk, Wazuh, Wireshark, and Kali Linux. I’m actively seeking a Tier 1 SOC Analyst role to apply my skills in real-time monitoring and incident response, while continuing to grow within a blue team environment.
+
+
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
