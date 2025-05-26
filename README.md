@@ -2,8 +2,8 @@
 <a href="https://linkedin.com/in/jamal-ayodeji"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-(Brief Introduction)
-
+[Brief Introduction]
+I’m an entry-level cybersecurity analyst focused on Security Operations (SOC), threat detection, and log analysis.
 
 ## Objective
 
