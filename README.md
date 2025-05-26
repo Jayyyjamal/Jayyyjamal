@@ -2,10 +2,6 @@
 <a href="https://linkedin.com/in/jamal-ayodeji"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I’m an entry-level cybersecurity analyst with a strong focus on SOC operations, threat detection, and log analysis. My background in Mechanical Engineering sharpens my analytical thinking and structured approach to solving security challenges.
-
-
-
 ## Objective
 
 As a Mechanical Engineering graduate with strong analytical skills, I’ve transitioned into cybersecurity through hands-on labs, internships, and self-paced learning. I’m building expertise in SOC operations, threat detection, and log analysis using tools like Splunk, Wazuh, Wireshark, and Kali Linux. I’m actively seeking a Tier 1 SOC Analyst role to apply my skills in real-time monitoring and incident response, while continuing to grow within a blue team environment.
