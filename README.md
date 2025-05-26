@@ -3,6 +3,7 @@
 
 
 [Brief Introduction]
+
 I’m an entry-level cybersecurity analyst focused on Security Operations (SOC), threat detection, and log analysis.
 
 ## Objective
