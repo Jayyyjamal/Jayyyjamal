@@ -1,9 +1,9 @@
 ## Hello, I'm Olaide Jamal 
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/jamal-ayodeji"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I’m an entry-level cybersecurity analyst with a background in Mechanical Engineering and a strong analytical mindset. My passion for cybersecurity drives me to explore Security Operations (SOC), threat detection, and log analysis. I'm actively building practical skills through labs, internships, and home lab projects using tools such as Wazuh, Splunk, Wireshark, and Kali Linux.
+
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
