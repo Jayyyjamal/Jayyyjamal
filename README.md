@@ -57,6 +57,7 @@ src="https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux&l
 
 </div>
 
+
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
