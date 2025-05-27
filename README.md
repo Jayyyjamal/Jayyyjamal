@@ -47,6 +47,14 @@ src="https://img.shields.io/badge/-Wazuh-002c61?style=for-the-badge"/>
    
 <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+
+### Operating System 
+</div>
+   <img
+src="https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux&logoColor=white
+
+
+
 </div>
 
 ## Certifications
