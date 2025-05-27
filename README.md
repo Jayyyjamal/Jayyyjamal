@@ -25,7 +25,7 @@ As a Mechanical Engineering graduate with strong analytical skills, I’ve trans
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
 
 ### Network
 <div>
@@ -52,9 +52,11 @@ src="https://img.shields.io/badge/-Wazuh-002c61?style=for-the-badge"/>
 ### Operating System 
 </div>
    <img
-src="https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
+src="https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux&logoColor=white"
+       />
 
-
+<img 
+src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
 
 </div>
 
