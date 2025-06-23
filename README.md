@@ -62,9 +62,8 @@ src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windo
 
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/Blue%20Team Junior%20Analyst-blue?style=for-the-badge&logo=shield-security" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
@@ -74,6 +73,7 @@ src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windo
 ## Projects
 - Detection Lab
 - SOC Automation Project
+- Project Hayes
 <!--
 **Jayyyjamal/Jayyyjamal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
