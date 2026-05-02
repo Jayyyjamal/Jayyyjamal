@@ -1,90 +1,134 @@
-## Hello, I'm Olaide Jamal 
-<a href="https://linkedin.com/in/jamal-ayodeji"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+## 👋 Hi, I'm Olaide Jamal  
+<a href="https://linkedin.com/in/olaide-jamal"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
+**SOC Analyst | SIEM | Threat Detection | Log Analysis | MITRE ATT&CK**
 
-[Brief Introduction]
+---
 
-I’m an entry-level cybersecurity analyst focused on Security Operations (SOC), threat detection, and log analysis.
+## 🚀 About Me
 
-## Objective
+I am a cybersecurity analyst focused on **Security Operations (SOC), threat detection, and incident response**.  
 
-As a Mechanical Engineering graduate with strong analytical skills, I’ve transitioned into cybersecurity through hands-on labs, internships, and self-paced learning. I’m building expertise in SOC operations, threat detection, and log analysis using tools like Splunk, Wazuh, Wireshark, and Kali Linux. I’m actively seeking a Tier 1 SOC Analyst role to apply my skills in real-time monitoring and incident response, while continuing to grow within a blue team environment.
+I transitioned from Mechanical Engineering into cybersecurity, applying strong analytical thinking to detect and investigate threats. I have built multiple hands-on labs simulating real-world attacks and analyzing logs using industry tools.  
 
+My work focuses on:
+- Detecting malicious activity in logs  
+- Mapping alerts to MITRE ATT&CK techniques  
+- Investigating endpoint and network-based threats  
 
+---
 
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+## 🎯 Career Objective
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+Seeking a **Tier 1 SOC Analyst role** where I can contribute to:
+- Security monitoring  
+- Threat detection  
+- Incident triage & response  
 
-## Tools
+---
 
+## 🧠 Core Skills (With Proof)
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Tcpdump-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
+| Skill | Demonstration |
+|------|-------------|
+| SIEM Implementation & Log Analysis | Wazuh SIEM Lab |
+| Threat Detection & MITRE ATT&CK Mapping | Detection Lab |
+| Network Traffic Analysis | Wireshark Analysis Lab |
+| Incident Response & Case Management | SOC Automation Lab |
+| Security Automation (SOAR) | Shuffle + TheHive Integration |
+| Endpoint Threat Hunting | Wazuh Endpoint Monitoring |
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
+---
 
-### SIEM
-<div>
-    <img 
-src="https://img.shields.io/badge/-Wazuh-002c61?style=for-the-badge"/>
-   
-<img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+## 🛠️ Tools & Technologies
 
-### Operating System 
-</div>
-   <img
-src="https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux&logoColor=white"
-       />
+### 🔍 Network Analysis
+Wireshark • Tcpdump • Zeek  
 
-<img 
-src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+### 💻 Endpoint Security
+Microsoft Defender • Velociraptor  
 
-</div>
+### 📊 SIEM & Monitoring
+Wazuh • Splunk • Elastic Stack  
 
+### ⚙️ Automation & Case Management
+Shuffle SOAR • TheHive  
 
-## Certifications
-<div>
-<img src="https://img.shields.io/badge/Blue%20Team Junior%20Analyst-blue?style=for-the-badge&logo=shield-security" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
+### 🖥️ Operating Systems
+Linux • Windows  
 
-## Projects
-- Detection Lab
-- SOC Automation Project
-- Project Hayes
-<!--
-**Jayyyjamal/Jayyyjamal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🔬 Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛡️ Wazuh SIEM Lab (Flagship Project)
+- Deployed and configured Wazuh SIEM using Docker  
+- Ingested and analyzed endpoint security logs  
+- Detected attack techniques including:
+  - Registry Modification (Persistence)  
+  - File Deletion (Defense Evasion)  
+  - Data Destruction (Impact)  
+- Mapped alerts to MITRE ATT&CK framework  
+- Conducted threat hunting on real log data  
+
+📎 *[Add your GitHub repo link here]*  
+
+---
+
+### 🔍 Detection Lab
+- Built a log monitoring environment using SIEM tools  
+- Correlated logs to identify suspicious behavior  
+- Investigated potential attack patterns  
+
+📎 *[Add repo link]*  
+
+---
+
+### ⚙️ SOC Automation Lab
+- Automated alert triage using Shuffle SOAR  
+- Integrated TheHive for incident case management  
+- Simulated SOC workflows from detection → response  
+
+📎 *[Add repo link]*  
+
+---
+
+## 🧪 Threat Hunting & Writeups
+
+- Windows Event Log Analysis  
+- Suspicious Registry Activity Detection  
+- Brute Force Attack Investigation  
+
+📎 *[Link to writeups or blog posts]*  
+
+---
+
+## 📊 Key Achievements
+
+- Analyzed **hundreds of endpoint log events** in SIEM lab environments  
+- Detected and investigated multiple simulated attack techniques  
+- Built and documented **end-to-end SOC workflows**  
+
+---
+
+## 📜 Certifications
+
+- Blue Team Level 1 (BTL1)  
+- CompTIA Network+  
+- CompTIA A+  
+- CDSA  
+- CCD  
+
+---
+
+## 📈 Currently Working On
+
+- Advanced threat detection use cases  
+- SIEM rule tuning and alert optimization  
+- Real-world attack simulation labs  
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/olaide-jamal
