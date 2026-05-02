@@ -113,10 +113,10 @@ Linux • Windows
 
 ## 📜 Certifications
 
-- Blue Team Level 1 (BTL1)  
-- CompTIA Network+  
-- CompTIA A+  
-- CDSA  
+- ISO 27001: Information Security Management Systems Certified (SKillFront)
+- LFC108: Cybersecurity Essentials (The Linux Foundation)
+- Blue Team Junior Analyst (Security Blue Team) 
+- Introduction to Cybersecurity (Cisco)
 - CCD  
 
 ---
