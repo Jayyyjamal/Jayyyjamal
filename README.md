@@ -71,7 +71,7 @@ Linux • Windows
 - Mapped alerts to MITRE ATT&CK framework  
 - Conducted threat hunting on real log data  
 
-📎 *[Add your GitHub repo link here]*  
+📎 https://github.com/Jayyyjamal/Wazuh-SIEM-Lab.git
 
 ---
 
