@@ -117,7 +117,7 @@ Linux • Windows
 - LFC108: Cybersecurity Essentials (The Linux Foundation)
 - Blue Team Junior Analyst (Security Blue Team) 
 - Introduction to Cybersecurity (Cisco)
-- CCD  
+
 
 ---
 
