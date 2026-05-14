@@ -11,11 +11,7 @@ I am a cybersecurity analyst focused on **Security Operations (SOC), threat dete
 
 I transitioned from Mechanical Engineering into cybersecurity, applying strong analytical thinking to detect and investigate threats. I have built multiple hands-on labs simulating real-world attacks and analyzing logs using industry tools.  
 
-My work focuses on:
-- Detecting malicious activity in logs  
-- Mapping alerts to MITRE ATT&CK techniques  
-- Investigating endpoint and network-based threats
-    
+
 
 ---
 
@@ -45,7 +41,7 @@ Seeking a **Tier 1 SOC Analyst role** where I can contribute to:
 ## 🛠️ Tools & Technologies
 
 ### 🔍 Network Analysis
-Wireshark • Tcpdump • Zeek  
+Wireshark • Tcpdump   
 
 ### 💻 Endpoint Security
 Microsoft Defender  
