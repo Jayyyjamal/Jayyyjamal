@@ -14,7 +14,8 @@ I transitioned from Mechanical Engineering into cybersecurity, applying strong a
 My work focuses on:
 - Detecting malicious activity in logs  
 - Mapping alerts to MITRE ATT&CK techniques  
-- Investigating endpoint and network-based threats  
+- Investigating endpoint and network-based threats
+    
 
 ---
 
@@ -23,7 +24,9 @@ My work focuses on:
 Seeking a **Tier 1 SOC Analyst role** where I can contribute to:
 - Security monitoring  
 - Threat detection  
-- Incident triage & response  
+- Incident triage & response
+- Vulnerability detection
+
 
 ---
 
@@ -35,7 +38,6 @@ Seeking a **Tier 1 SOC Analyst role** where I can contribute to:
 | Threat Detection & MITRE ATT&CK Mapping | Detection Lab |
 | Network Traffic Analysis | Wireshark Analysis Lab |
 | Incident Response & Case Management | SOC Automation Lab |
-| Security Automation (SOAR) | Shuffle + TheHive Integration |
 | Endpoint Threat Hunting | Wazuh Endpoint Monitoring |
 
 ---
@@ -46,13 +48,11 @@ Seeking a **Tier 1 SOC Analyst role** where I can contribute to:
 Wireshark • Tcpdump • Zeek  
 
 ### 💻 Endpoint Security
-Microsoft Defender • Velociraptor  
+Microsoft Defender  
 
 ### 📊 SIEM & Monitoring
 Wazuh • Splunk • Elastic Stack  
-
-### ⚙️ Automation & Case Management
-Shuffle SOAR • TheHive  
+  
 
 ### 🖥️ Operating Systems
 Linux • Windows  
@@ -84,12 +84,7 @@ Linux • Windows
 
 ---
 
-### ⚙️ SOC Automation Lab
-- Automated alert triage using Shuffle SOAR  
-- Integrated TheHive for incident case management  
-- Simulated SOC workflows from detection → response  
-
-📎 *[Add repo link]*  
+  
 
 ---
 
@@ -121,13 +116,7 @@ Linux • Windows
 
 ---
 
-## 📈 Currently Working On
 
-- Advanced threat detection use cases  
-- SIEM rule tuning and alert optimization  
-- Real-world attack simulation labs  
-
----
 
 ## 📫 Connect With Me
 
