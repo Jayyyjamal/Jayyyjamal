@@ -31,9 +31,9 @@ Seeking a **Tier 1 SOC Analyst role** where I can contribute to:
 | Skill | Demonstration |
 |------|-------------|
 | SIEM Implementation & Log Analysis | Wazuh SIEM Lab |
-| Threat Detection & MITRE ATT&CK Mapping | Detection Lab |
+| Threat Detection & MITRE ATT&CK Mapping | Wazuh Detection Lab |
 | Network Traffic Analysis | Wireshark Analysis Lab |
-| Vunerability Management & Detection | Wazuh SIEM Lab |
+| Vunerability Management & Detection | Wazuh Vunerability Lab |
 | Endpoint Threat Hunting | Wazuh Endpoint Monitoring |
 
 ---
@@ -84,7 +84,7 @@ Linux • Windows
 - Identified and prioritized endpoint vulnerabilities using CVE severity scoring
 - Created dashboards to support remediation and risk-based security decisions
 
-📎 *[Add repo link]*  
+📎 *[https://github.com/Jayyyjamal/wazuh-vulnerability-detection-lab]*  
 
 ## 🧪 Threat Hunting & Writeups
 
