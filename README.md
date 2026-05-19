@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-I am a cybersecurity analyst focused on **Security Operations (SOC), threat detection, and incident response**.  
+I am a cybersecurity analyst focused on **Security Operations (SOC), threat detection,Vulnerability Management and incident response**.  
 
 I transitioned from Mechanical Engineering into cybersecurity, applying strong analytical thinking to detect and investigate threats. I have built multiple hands-on labs simulating real-world attacks and analyzing logs using industry tools.  
 
