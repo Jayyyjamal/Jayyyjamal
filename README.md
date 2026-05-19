@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Olaide Jamal  
 <a href="https://linkedin.com/in/olaide-jamal"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-**SOC Analyst | SIEM Engineer | Threat Hunter | Incident Response**
+**SOC Analyst | SIEM Engineer | Vulnerability Management | Incident Response**
 
 ---
 
@@ -33,7 +33,7 @@ Seeking a **Tier 1 SOC Analyst role** where I can contribute to:
 | SIEM Implementation & Log Analysis | Wazuh SIEM Lab |
 | Threat Detection & MITRE ATT&CK Mapping | Detection Lab |
 | Network Traffic Analysis | Wireshark Analysis Lab |
-| Incident Response & Case Management | SOC Automation Lab |
+| Vunerability Management & Detection | Wazuh SIEM Lab |
 | Endpoint Threat Hunting | Wazuh Endpoint Monitoring |
 
 ---
@@ -79,10 +79,12 @@ Linux • Windows
 📎 *[Add repo link]*  
 
 ---
+###  🛡️ Vulnerability Management Lab
+- Built a vulnerability detection environment using Wazuh SIEM
+- Identified and prioritized endpoint vulnerabilities using CVE severity scoring
+- Created dashboards to support remediation and risk-based security decisions
 
-  
-
----
+📎 *[Add repo link]*  
 
 ## 🧪 Threat Hunting & Writeups
 
