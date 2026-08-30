@@ -92,7 +92,7 @@ Linux • Windows
 - Suspicious Registry Activity Detection  
 - Brute Force Attack Investigation  
 
-📎 *[Link to writeups or blog posts]*  
+📎 *[https://github.com/Jayyyjamal/threat-hunting-writeups]*  
 
 ---
 
